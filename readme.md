@@ -1,4 +1,4 @@
-#NavbarJS#
+##NavbarJS
 
 Import navbar.js in your html file and let's create navbar!
 
